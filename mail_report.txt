@@ -1,0 +1,32 @@
+Total Inbox Mails: 761
+
+From: Mahalakshmi P <invitations@linkedin.com>
+Subject: I want to connect
+--------------------------------------------------
+From: Google <no-reply@accounts.google.com>
+Subject: Security alert
+--------------------------------------------------
+From: Google <no-reply@accounts.google.com>
+Subject: Security alert
+--------------------------------------------------
+From: Google <no-reply@accounts.google.com>
+Subject: Security alert
+--------------------------------------------------
+From: mdivya07kumar@gmail.com
+Subject: Desktop File Attachment From Python
+--------------------------------------------------
+From: Google <no-reply@accounts.google.com>
+Subject: Security alert
+--------------------------------------------------
+From: Google <no-reply@accounts.google.com>
+Subject: Security alert
+--------------------------------------------------
+From: mdivya07kumar@gmail.com
+Subject: Scheduled Mail with Attachment
+--------------------------------------------------
+From: mdivya07kumar@gmail.com
+Subject: Python Mail
+--------------------------------------------------
+From: mdivya07kumar@gmail.com
+Subject: Python Mail
+--------------------------------------------------
