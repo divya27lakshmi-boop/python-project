@@ -50,4 +50,5 @@ Add Web Applications using Python
 Add AI and Automation Projects
 
 Author  
-Divya Muthukumar 
+Divya Muthukumar
+IT Student 
